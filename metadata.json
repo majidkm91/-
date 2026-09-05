@@ -1,0 +1,6 @@
+{
+  "name": "نفس پاک",
+  "description": "برنامه هوشمند رهایی و ترک سیگار با داشبورد زنده، خط زمانی بهبود سلامت بر اساس سازمان جهانی بهداشت، تمرین تنفس ۴-۷-۸ ضد وسوسه و مدال‌های افتخار",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
